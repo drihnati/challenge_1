@@ -1,4 +1,4 @@
-const animalFunction = (animal) {
+const animalFunction = (animal)=>{
 
   if (animal === horse) {
       return "Neigh!"
